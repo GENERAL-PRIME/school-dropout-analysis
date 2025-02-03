@@ -6,7 +6,7 @@ School dropout is a significant issue affecting education systems in India. This
 
 ### **Key Features:**
 
-**Multiple Models** – Implements **SVM, Random Forest, XGBoost, and ANN**.  
+**Multiple Models** – Implements **SVM, Random Forest, and ANN**.  
 **Best Model Selection** – Automatically chooses the highest accuracy model.  
 **Data Preprocessing** – Handles missing values, encodes categorical data, and scales numerical features.
 
@@ -70,7 +70,6 @@ python main.py
 | **Python**             | Programming language                |
 | **TensorFlow & Keras** | Building the ANN model              |
 | **Scikit-Learn**       | Implementing traditional ML models  |
-| **XGBoost**            | High-performance boosting algorithm |
 | **Pandas & NumPy**     | Data processing and manipulation    |
 | **Matplotlib & Seaborn**     | Visualizing model performance and predictions    |
 
@@ -82,7 +81,6 @@ This project trains multiple models and selects the best one based on accuracy. 
 
 **Support Vector Machine (SVM)** – A robust classifier used for classification tasks..  
 **Random Forest** – An ensemble learning method for better generalization.  
-**XGBoost** – A powerful gradient-boosting model.  
 **Artificial Neural Network (ANN)** – A deep learning model trained with TensorFlow/Keras.
 
 The model with the **highest accuracy** on the test set is **automatically selected**.
