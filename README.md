@@ -44,20 +44,13 @@ git clone https://github.com/your-username/school-dropout-analysis.git
 cd school_dropout_analysis
 ```
 
-2 Install required dependencies:
-
-```bash
-pip install -r requirements.txt
-```
-
----
 
 ## **4. Usage**
 
 To run the project and train the models, execute the following command:
 
 ```bash
-python main.py
+setup.bat
 ```
 
 
