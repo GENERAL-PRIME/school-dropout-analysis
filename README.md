@@ -113,9 +113,3 @@ Contributions are welcome! To contribute:
 4. Open a pull request.
 
 ---
-
-## **9. License**
-
-This project is released under the **MIT License**. You are free to modify and distribute it.
-
----
