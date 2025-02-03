@@ -2,7 +2,7 @@
 
 ## **1. Introduction**
 
-School dropout is a significant issue affecting education systems worldwide. This project leverages **machine learning (ML) and artificial neural networks (ANNs)** to predict whether a student is likely to drop out based on **demographic, economic, and social factors**. The approach includes multiple models, comparing their performance, and selecting the most accurate one.
+School dropout is a significant issue affecting education systems in India. This project predicts whether a student is likely to drop out based on **demographic, economic, and social factors**.
 
 ### **Key Features:**
 
@@ -60,7 +60,6 @@ To run the project and train the models, execute the following command:
 python main.py
 ```
 
-The script will preprocess the dataset, train multiple models, evaluate them, and print the best-performing model.
 
 ---
 
